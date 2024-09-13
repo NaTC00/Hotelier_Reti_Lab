@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="progettoCeccarini">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

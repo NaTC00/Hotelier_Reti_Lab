@@ -1,0 +1,88 @@
+{
+  "aaa": {
+    "username": "aaa",
+    "password": "aaa",
+    "numReviews": 0
+  },
+  "geme": {
+    "username": "geme",
+    "password": "160599",
+    "numReviews": 0
+  },
+  "dan": {
+    "username": "dan",
+    "password": "050270",
+    "numReviews": 0
+  },
+  "Thom": {
+    "username": "Thom",
+    "password": "050412",
+    "numReviews": 6,
+    "badges": "Recensore Esperto"
+  },
+  "mam": {
+    "username": "mam",
+    "password": "mam",
+    "numReviews": 0
+  },
+  "vio": {
+    "username": "vio",
+    "password": "280300",
+    "numReviews": 0
+  },
+  "nina": {
+    "username": "nina",
+    "password": "110532",
+    "numReviews": 0
+  },
+  "nat": {
+    "username": "nat",
+    "password": "140100",
+    "numReviews": 8,
+    "badges": "Recensore Esperto"
+  },
+  "mat": {
+    "username": "mat",
+    "password": "090899",
+    "numReviews": 2,
+    "badges": "Recensore"
+  },
+  "lau": {
+    "username": "lau",
+    "password": "100500",
+    "numReviews": 0
+  },
+  "jjo": {
+    "username": "jjo",
+    "password": "jjo",
+    "numReviews": 3,
+    "badges": "Recensore"
+  },
+  "mara": {
+    "username": "mara",
+    "password": "121246",
+    "numReviews": 0
+  },
+  "chri": {
+    "username": "chri",
+    "password": "200107",
+    "numReviews": 0
+  },
+  "ttt": {
+    "username": "ttt",
+    "password": "ttt",
+    "numReviews": 0
+  },
+  "bruno": {
+    "username": "bruno",
+    "password": "010130",
+    "numReviews": 4,
+    "badges": "Recensore"
+  },
+  "marti": {
+    "username": "marti",
+    "password": "000000",
+    "numReviews": 7,
+    "badges": "Recensore Esperto"
+  }
+}

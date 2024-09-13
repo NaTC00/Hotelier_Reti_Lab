@@ -1,0 +1,438 @@
+{
+  "160": [
+    {
+      "user": "marti",
+      "idHotel": 160,
+      "nameHotel": "hotel bari 10",
+      "globalscor": 4,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 4.0,
+        "position": 4.0,
+        "services": 4.0,
+        "quality": 4.0
+      }
+    }
+  ],
+  "163": [
+    {
+      "user": "nat",
+      "idHotel": 163,
+      "nameHotel": "hotel potenza 3",
+      "globalscor": 2,
+      "data": "26/08/2024",
+      "ratings": {
+        "cleaning": 2.0,
+        "position": 2.0,
+        "services": 2.0,
+        "quality": 2.0
+      }
+    }
+  ],
+  "36": [
+    {
+      "user": "bruno",
+      "idHotel": 36,
+      "nameHotel": "hotel milano 6",
+      "globalscor": 5,
+      "data": "27/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "101": [
+    {
+      "user": "nat",
+      "idHotel": 101,
+      "nameHotel": "hotel ancona 1",
+      "globalscor": 5,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    },
+    {
+      "user": "jjo",
+      "idHotel": 101,
+      "nameHotel": "hotel ancona 1",
+      "globalscor": 5,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    },
+    {
+      "user": "jjo",
+      "idHotel": 101,
+      "nameHotel": "hotel ancona 1",
+      "globalscor": 5,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "102": [
+    {
+      "user": "nat",
+      "idHotel": 102,
+      "nameHotel": "hotel ancona 2",
+      "globalscor": 3,
+      "data": "04/09/2024",
+      "ratings": {
+        "cleaning": 3.0,
+        "position": 3.0,
+        "services": 3.0,
+        "quality": 3.0
+      }
+    }
+  ],
+  "71": [
+    {
+      "user": "marti",
+      "idHotel": 71,
+      "nameHotel": "hotel reggio-emilia 1",
+      "globalscor": 5,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "104": [
+    {
+      "user": "Thom",
+      "idHotel": 104,
+      "nameHotel": "hotel ancona 4",
+      "globalscor": 5,
+      "data": "28/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "106": [
+    {
+      "user": "jjo",
+      "idHotel": 106,
+      "nameHotel": "hotel ancona 6",
+      "globalscor": 5,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "176": [
+    {
+      "user": "nat",
+      "idHotel": 176,
+      "nameHotel": "hotel reggio-calabria 6",
+      "globalscor": 5,
+      "data": "06/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "83": [
+    {
+      "user": "marti",
+      "idHotel": 83,
+      "nameHotel": "hotel firenze 3",
+      "globalscor": 4,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 4.0,
+        "position": 4.0,
+        "services": 4.0,
+        "quality": 4.0
+      }
+    }
+  ],
+  "181": [
+    {
+      "user": "nat",
+      "idHotel": 181,
+      "nameHotel": "hotel palermo 1",
+      "globalscor": 3,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 3.0,
+        "position": 3.0,
+        "services": 3.0,
+        "quality": 3.0
+      }
+    }
+  ],
+  "182": [
+    {
+      "user": "mat",
+      "idHotel": 182,
+      "nameHotel": "hotel palermo 2",
+      "globalscor": 5,
+      "data": "26/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "183": [
+    {
+      "user": "Thom",
+      "idHotel": 183,
+      "nameHotel": "hotel palermo 3",
+      "globalscor": 5,
+      "data": "28/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    },
+    {
+      "user": "Thom",
+      "idHotel": 183,
+      "nameHotel": "hotel palermo 3",
+      "globalscor": 5,
+      "data": "28/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    },
+    {
+      "user": "Thom",
+      "idHotel": 183,
+      "nameHotel": "hotel palermo 3",
+      "globalscor": 5,
+      "data": "28/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "87": [
+    {
+      "user": "bruno",
+      "idHotel": 87,
+      "nameHotel": "hotel firenze 7",
+      "globalscor": 5,
+      "data": "27/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "185": [
+    {
+      "user": "bruno",
+      "idHotel": 185,
+      "nameHotel": "hotel palermo 5",
+      "globalscor": 5,
+      "data": "27/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    },
+    {
+      "user": "bruno",
+      "idHotel": 185,
+      "nameHotel": "hotel palermo 5",
+      "globalscor": 5,
+      "data": "27/08/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "90": [
+    {
+      "user": "marti",
+      "idHotel": 90,
+      "nameHotel": "hotel firenze 10",
+      "globalscor": 5,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "186": [
+    {
+      "user": "Thom",
+      "idHotel": 186,
+      "nameHotel": "hotel palermo 6",
+      "globalscor": 4,
+      "data": "28/08/2024",
+      "ratings": {
+        "cleaning": 4.0,
+        "position": 4.0,
+        "services": 4.0,
+        "quality": 4.0
+      }
+    }
+  ],
+  "187": [
+    {
+      "user": "mat",
+      "idHotel": 187,
+      "nameHotel": "hotel palermo 7",
+      "globalscor": 3,
+      "data": "26/08/2024",
+      "ratings": {
+        "cleaning": 3.0,
+        "position": 3.0,
+        "services": 3.0,
+        "quality": 3.0
+      }
+    },
+    {
+      "user": "Thom",
+      "idHotel": 187,
+      "nameHotel": "hotel palermo 7",
+      "globalscor": 4,
+      "data": "28/08/2024",
+      "ratings": {
+        "cleaning": 4.0,
+        "position": 4.0,
+        "services": 4.0,
+        "quality": 4.0
+      }
+    }
+  ],
+  "188": [
+    {
+      "user": "nat",
+      "idHotel": 188,
+      "nameHotel": "hotel palermo 8",
+      "globalscor": 4,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 4.0,
+        "position": 4.0,
+        "services": 4.0,
+        "quality": 4.0
+      }
+    }
+  ],
+  "156": [
+    {
+      "user": "nat",
+      "idHotel": 156,
+      "nameHotel": "hotel bari 6",
+      "globalscor": 5,
+      "data": "04/09/2024",
+      "ratings": {
+        "cleaning": 5.0,
+        "position": 5.0,
+        "services": 5.0,
+        "quality": 5.0
+      }
+    }
+  ],
+  "189": [
+    {
+      "user": "marti",
+      "idHotel": 189,
+      "nameHotel": "hotel palermo 9",
+      "globalscor": 4,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 4.0,
+        "position": 4.0,
+        "services": 4.0,
+        "quality": 4.0
+      }
+    }
+  ],
+  "157": [
+    {
+      "user": "marti",
+      "idHotel": 157,
+      "nameHotel": "hotel bari 7",
+      "globalscor": 3,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 3.0,
+        "position": 3.0,
+        "services": 3.0,
+        "quality": 3.0
+      }
+    },
+    {
+      "user": "marti",
+      "idHotel": 157,
+      "nameHotel": "hotel bari 7",
+      "globalscor": 4,
+      "data": "05/09/2024",
+      "ratings": {
+        "cleaning": 4.0,
+        "position": 4.0,
+        "services": 4.0,
+        "quality": 4.0
+      }
+    }
+  ],
+  "159": [
+    {
+      "user": "nat",
+      "idHotel": 159,
+      "nameHotel": "hotel bari 9",
+      "globalscor": 2,
+      "data": "04/09/2024",
+      "ratings": {
+        "cleaning": 2.0,
+        "position": 2.0,
+        "services": 2.0,
+        "quality": 2.0
+      }
+    }
+  ]
+}
